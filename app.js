@@ -20,3 +20,5 @@ function div (numb, numb2) {
     let num2 = document.getElementById("numb2").value;
     document.getElementById("result").innerHTML = Number(num) / Number(num2); 
 }
+
+// added
